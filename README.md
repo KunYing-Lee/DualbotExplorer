@@ -19,6 +19,6 @@ A multi-mode conversational AI platform for academic interactions, featuring AI-
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/dualbot-explorer.git
+git clone https://github.com/KunYing-Lee/DualbotExplorer.git
 cd dualbot-explorer
 pip install -r requirements.txt
