@@ -2,7 +2,8 @@
 
 A multi-mode conversational AI platform for academic interactions, featuring AI-powered debate, paper analysis, and peer-review simulation.
 
-![Demo](https://via.placeholder.com/800x400.png?text=DualBot+Demo+Screenshot)
+<img width="1219" alt="image" src="https://github.com/user-attachments/assets/be682204-053a-457c-af01-8c0415ef08a6" />
+
 
 ## Features
 🎯 **Three Interactive Modes**
