@@ -4,3 +4,4 @@ openai==0.28.0
 pypdf==3.17.0
 python-dotenv==1.0.0
 tiktoken==0.5.2
+stremalit-chat==0.1.1
