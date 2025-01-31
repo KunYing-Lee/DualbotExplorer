@@ -1,7 +1,7 @@
 # Core dependencies
 langchain==0.0.309  # For creating conversational AI chains and prompts
 openai==1.3.0     # Required for ChatOpenAI and OpenAIEmbeddings
-faiss-cpu==1.7.4  # For vector storage and similarity search
+faiss-cpu==1.6.1  # For vector storage and similarity search
 pypdf==3.17.1     # For PDF document loading (used by PyPDFLoader)
 
 # Web interface
